@@ -41,9 +41,13 @@ Function of DBA:
 
 # Two-Tier And Three-Tier database architecture
 
-## 1.Two-Tier: The two-tier architecture is based on the Client-Server model. It consists of Client-Application tier and Database tier. The Client-Application server communicates directly with the Database server. Data or information transfer between the two components is fast due to the absence of a middleware.
+## 1.Two-Tier:
+
+The two-tier architecture is based on the Client-Server model. It consists of Client-Application tier and Database tier. The Client-Application server communicates directly with the Database server. Data or information transfer between the two components is fast due to the absence of a middleware.
 Example: Rails, .NET, C++ etc.
 
-## 2.Three-Tier: In three-tier, the application logic or process lives in the middle-tier, it is separated from the data and the user interface. Three-tier systems are more scalable, robust and flexible. In addition, they can integrate data from multiple sources. In the three-tier architecture, a middle tier was added between the user system interface client environment and the database management server environment. There are a variety of ways of implementing this middle tier, such as transaction processing monitors, message servers, or application servers.
+## 2.Three-Tier: 
+
+In three-tier, the application logic or process lives in the middle-tier, it is separated from the data and the user interface. Three-tier systems are more scalable, robust and flexible. In addition, they can integrate data from multiple sources. In the three-tier architecture, a middle tier was added between the user system interface client environment and the database management server environment. There are a variety of ways of implementing this middle tier, such as transaction processing monitors, message servers, or application servers.
 
 [Difference](https://www.geeksforgeeks.org/difference-between-two-tier-and-three-tier-database-architecture/)
