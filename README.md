@@ -51,3 +51,7 @@ Example: Rails, .NET, C++ etc.
 In three-tier, the application logic or process lives in the middle-tier, it is separated from the data and the user interface. Three-tier systems are more scalable, robust and flexible. In addition, they can integrate data from multiple sources. In the three-tier architecture, a middle tier was added between the user system interface client environment and the database management server environment. There are a variety of ways of implementing this middle tier, such as transaction processing monitors, message servers, or application servers.
 
 [Difference](https://www.geeksforgeeks.org/difference-between-two-tier-and-three-tier-database-architecture/)
+
+# Database Language
+
+[Full Description](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
