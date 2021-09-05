@@ -65,3 +65,17 @@ thier are three levels:
 - View level
 - Conceptual Level
 - Physical Level
+
+There are 2 types of data independence.
+- Logical Data independence
+- Physical Data Independence
+
+# [RDBMS](https://www.javatpoint.com/what-is-rdbms)
+All modern database management systems like SQL, MS SQL Server, IBM DB2, ORACLE, My-SQL and Microsoft Access are based on RDBMS.
+
+# Degree of Relationship
+Resource (Youtube: Gate Smasher)
+- 1:1
+- 1:M
+- M:1
+- M:N
