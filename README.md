@@ -55,3 +55,13 @@ In three-tier, the application logic or process lives in the middle-tier, it is 
 # Database Language
 
 [Full Description](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
+
+## Schema
+It is logical representation of database.
+
+# 3-Schema Architecture
+This is to provide data independency or abstraction(User should not know about the metadata of database).
+thier are three levels:
+- View level
+- Conceptual Level
+- Physical Level
